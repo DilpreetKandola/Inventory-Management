@@ -3,7 +3,7 @@
 
 ## Create Read Update Destroy Format
 
-|###Description                                                     | ###Type         | 
+|Description:                                                    |Type:         | 
 |:---------------------------------------------------------------|:-------------|
 |+ Admin orders inventory for their store                        |__Create__    |
 |+ Customers create an account to view and order inventory       | __Create__   |
